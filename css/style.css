@@ -11945,13 +11945,13 @@ nav .nav__buttonsContainer {
 }
 
 header {
-  background-image: url(/assets/images/index__mainBackground.jpg);
+  background-image: url(../assets/images/index__mainBackground.jpg);
   background-attachment: fixed;
   background-size: contain;
 }
 
 footer {
-  background-image: url(/assets/images/index__mainBackground.jpg);
+  background-image: url(../assets/images/index__mainBackground.jpg);
   background-attachment: fixed;
   background-size: contain;
   color: #FFFFFF;
