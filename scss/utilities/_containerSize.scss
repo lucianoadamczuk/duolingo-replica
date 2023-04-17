@@ -1,0 +1,9 @@
+.container-xl{
+    padding: 0 40px 0 40px
+}
+
+@media screen and (min-width: 1000px){
+    .container-xl{
+        padding: 0 140px 0 140px
+    }
+}

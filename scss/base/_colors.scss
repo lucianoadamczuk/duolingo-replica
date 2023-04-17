@@ -1,0 +1,28 @@
+
+// button when hover #89e219
+// all text except little p #4b4b4b
+
+$primary: #0A4A82;
+$secondary: rgba(255, 255, 255, 0);
+$success: #61E002;
+$info: #1CB0F9;
+$dark: #6F6F6F;
+$light: #FFFFFF;
+
+
+
+// #235390
+$theme-colors: (
+    "primary":    $primary,
+    "secondary":  $secondary,
+    "success":    $success,
+    "info":       $info,
+    "dark":       $dark,
+    "light":      $light,
+);
+
+
+// "warning":    $warning,
+// "danger":     $danger,
+
+

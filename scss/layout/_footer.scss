@@ -1,0 +1,28 @@
+footer{
+    background-image: url(../../assets/images/index__mainBackground.jpg);
+    background-attachment: fixed;
+    background-size: contain;
+    color: $light;
+
+    a{
+        color: $light;
+    }
+    
+    #footer__information{
+        a{
+            margin-bottom: 10px !important;
+        }
+    }
+
+    #footer__information, #footer__countries{
+
+        a{
+            opacity: 50%;
+            font-size: 14px !important;
+        }
+
+        a:hover{
+            text-decoration: underline !important;
+        }
+    }
+}

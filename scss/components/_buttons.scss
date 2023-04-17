@@ -1,0 +1,29 @@
+.btn{
+    padding: 10px 20px 10px 20px;
+    border-radius: 20px;
+    border-bottom: 3px solid rgba(0, 0, 0, 0.2);
+}
+
+.btn:hover{
+    border-bottom: 3px solid rgba(0, 0, 0, 0.3);
+}
+
+.btn-success{
+    color: $light !important;
+}
+
+.btn-success:hover{
+    background-color: #89fc32;
+}
+
+.btn-outline-secondary{
+    i, h5{
+        color: $dark;
+    }
+}
+
+.btn-outline-secondary:hover{
+    background-color: rgba(0, 0, 0, 0.2);
+}
+
+

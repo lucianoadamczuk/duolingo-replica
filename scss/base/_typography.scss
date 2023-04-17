@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Potta+One&family=Signika&display=swap');
+
+
+
+h1{
+    font-family: 'Potta One', cursive;
+}
+
+h2, h3, h4, h5, h6, a{
+    font-family: 'Signika', sans-serif;
+    font-weight: bold;
+    margin-bottom: 0;
+}
+
+p{
+    color: $dark;
+}
